@@ -1,0 +1,6 @@
+1 - 0 - normal
+2 - 1 - lop 
+3 - 2 - Stahl
+4 - 3 - Helical
+5 - 4 - cup/restricted
+6 - 5 - microtia
