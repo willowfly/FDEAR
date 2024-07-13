@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+      normal     0.9804    0.6329    0.7692       158
+     lop ear     0.7895    0.9184    0.8491        49
+       Stahl     0.4074    0.8462    0.5500        13
+     helical     0.4000    0.8000    0.5333        35
+         cup     0.6429    0.6000    0.6207        15
+    microtia     1.0000    1.0000    1.0000         2
+
+    accuracy                         0.7169       272
+   macro avg     0.7034    0.7996    0.7204       272
+weighted avg     0.8255    0.7169    0.7363       272
